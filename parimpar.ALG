@@ -11,8 +11,8 @@ escreval("digite o valor: ")
 leia(num)
 //processsamento
 par<-(num mod 2)=0
-impar<-num mod 2)=1
+impar<-(num mod 2)=1
 //saida
-escreval("Impar",impar)
-escreval("Par",par)
+escreval("Impar: ",impar)
+escreval("Par: ",par)
 Fimalgoritmo

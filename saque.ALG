@@ -16,6 +16,6 @@ posi<-(cb>0)
 neg<-(cb<0)
 //saida
 escreval("Seu saldo era de: ",sal)
-escreval("Sua conta agora esta positiva: ",posi)
-escreval("Sua conta agora esta negativa: ",neg)
+escreval("seu saldo agora esta positivo: ",posi)
+escreval("Seu saldo agora esta negativo: ",neg)
 Fimalgoritmo

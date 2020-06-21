@@ -22,7 +22,7 @@ og3<-(imc>40)
 //saida
 escreval("Seu IMC é: ",imc)
 escreval("Você esta abaixo do peso: ",ap)
-escreval("Você esta com o peso normal: ",pn)
+escreval("Você esta com o ideal: ",pn)
 escreval("Você esta sobrepeso: ",s)
 escreval("Você esta com obesidade grau 1: ",og1)
 escreval("Você esta com obesidade grau 2: ",og2)
